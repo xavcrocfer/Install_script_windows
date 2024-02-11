@@ -148,7 +148,7 @@ switch ($choice) {
     "7" { EnableAndDownloadDotNet35 }
     "8" { SetOutlookAsDefaultMailClient }
     "9" { Install7Zip }
-	"10" { AddCurrentUserToLocalAdmins }
+    "10" { AddCurrentUserToLocalAdmins }
     "11" { SetGoogleDefaultChrome }
     "12" { SetGoogleDefaultEdge }
     "13" { InstallO365 }
@@ -162,7 +162,7 @@ switch ($choice) {
         EnableAndDownloadDotNet35
         SetOutlookAsDefaultMailClient
         Install7Zip
-		AddCurrentUserToLocalAdmins
+	AddCurrentUserToLocalAdmins
         SetGoogleDefaultChrome
         SetGoogleDefaultEdge
         InstallO365
